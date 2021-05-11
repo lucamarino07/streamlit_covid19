@@ -1,7 +1,7 @@
-from numpy import datetime_as_string
+
 import streamlit as st
 import pandas as pd
-import plotly.express as px
+
 from datetime import datetime
 
 url = "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni-latest.csv"
